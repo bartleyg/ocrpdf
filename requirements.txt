@@ -1,6 +1,2 @@
-datefinder==0.6.1
-dateparser==0.6.0
-google-cloud-vision==0.28.0
-pandas==0.21.0
-spacy==2.0.3
-ujson==1.35
+google-cloud-vision~=0.28.0
+ujson~=1.35
